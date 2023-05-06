@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahesh MS
 - 👀 I’m interested in full-stack development (focusing on back-end)
-- 🌱 I’m currently learning Math
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on full-stack application development
 - 📫 How to reach me msmahesh@live.com
 
